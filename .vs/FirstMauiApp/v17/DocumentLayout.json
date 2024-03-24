@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|c:\\users\\brett\\onedrive\\desktop\\programming\\mssa\\maui\\firstmauiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\tabbedpagedemo\\demotabpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\tabbedpagedemo\\demotabpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\navpagedemo\\navcontentpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\navpagedemo\\navcontentpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\navpagedemo\\navcontentpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\navpagedemo\\navcontentpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\navpagedemo\\navcontentpage3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\navpagedemo\\navcontentpage3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\navpagedemo\\navcontentpage3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\navpagedemo\\navcontentpage3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\navpagedemo\\navcontentpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\navpagedemo\\navcontentpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\flyoutpagedemo\\demoflyoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\flyoutpagedemo\\demoflyoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\flyoutpagedemo\\demoflyoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\flyoutpagedemo\\demoflyoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\navpagedemo\\navcontentpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\navpagedemo\\navcontentpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\contentpagesdemo\\democontentpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\contentpagesdemo\\democontentpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\contentpagesdemo\\democontentpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\contentpagesdemo\\democontentpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\tabbedpagedemo\\demotabpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\tabbedpagedemo\\demotabpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\firstmauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:firstmauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\contentpagesdemo\\democontentpage3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\contentpagesdemo\\democontentpage3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\contentpagesdemo\\democontentpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\contentpagesdemo\\democontentpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\contentpagesdemo\\democontentpage3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\contentpagesdemo\\democontentpage3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\pages\\contentpagesdemo\\democontentpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2758D7A7-1591-4CF7-A0E9-7C5DCE88D15F}|FirstMauiApp.csproj|solutionrelative:pages\\contentpagesdemo\\democontentpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DemoTabPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\TabbedPageDemo\\DemoTabPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\TabbedPageDemo\\DemoTabPage.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\TabbedPageDemo\\DemoTabPage.xaml.cs",
+              "RelativeToolTip": "Pages\\TabbedPageDemo\\DemoTabPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:30:48.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoTabPage.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\TabbedPageDemo\\DemoTabPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\TabbedPageDemo\\DemoTabPage.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\TabbedPageDemo\\DemoTabPage.xaml",
+              "RelativeToolTip": "Pages\\TabbedPageDemo\\DemoTabPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T20:30:26.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoFlyoutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\FlyoutPageDemo\\DemoFlyoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\FlyoutPageDemo\\DemoFlyoutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\FlyoutPageDemo\\DemoFlyoutPage.xaml.cs",
+              "RelativeToolTip": "Pages\\FlyoutPageDemo\\DemoFlyoutPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:03:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DemoFlyoutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\FlyoutPageDemo\\DemoFlyoutPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\FlyoutPageDemo\\DemoFlyoutPage.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\FlyoutPageDemo\\DemoFlyoutPage.xaml",
+              "RelativeToolTip": "Pages\\FlyoutPageDemo\\DemoFlyoutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T20:03:45.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavContentPage3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage3.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\NavPageDemo\\NavContentPage3.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage3.xaml.cs",
+              "RelativeToolTip": "Pages\\NavPageDemo\\NavContentPage3.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:32:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavContentPage2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage2.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\NavPageDemo\\NavContentPage2.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage2.xaml.cs",
+              "RelativeToolTip": "Pages\\NavPageDemo\\NavContentPage2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:31:54.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavContentPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage1.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\NavPageDemo\\NavContentPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage1.xaml.cs",
+              "RelativeToolTip": "Pages\\NavPageDemo\\NavContentPage1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:49:42.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavContentPage3.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage3.xaml",
+              "RelativeDocumentMoniker": "Pages\\NavPageDemo\\NavContentPage3.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage3.xaml",
+              "RelativeToolTip": "Pages\\NavPageDemo\\NavContentPage3.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T22:47:46.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavContentPage2.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage2.xaml",
+              "RelativeDocumentMoniker": "Pages\\NavPageDemo\\NavContentPage2.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage2.xaml",
+              "RelativeToolTip": "Pages\\NavPageDemo\\NavContentPage2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T22:47:39.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavContentPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage1.xaml",
+              "RelativeDocumentMoniker": "Pages\\NavPageDemo\\NavContentPage1.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\NavPageDemo\\NavContentPage1.xaml",
+              "RelativeToolTip": "Pages\\NavPageDemo\\NavContentPage1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T22:47:28.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DemoContentPage3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage3.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ContentPagesDemo\\DemoContentPage3.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage3.xaml.cs",
+              "RelativeToolTip": "Pages\\ContentPagesDemo\\DemoContentPage3.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:42:18.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DemoContentPage3.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage3.xaml",
+              "RelativeDocumentMoniker": "Pages\\ContentPagesDemo\\DemoContentPage3.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage3.xaml",
+              "RelativeToolTip": "Pages\\ContentPagesDemo\\DemoContentPage3.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T21:41:24.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DemoContentPage2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage2.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ContentPagesDemo\\DemoContentPage2.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage2.xaml.cs",
+              "RelativeToolTip": "Pages\\ContentPagesDemo\\DemoContentPage2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:32:33.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DemoContentPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage1.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ContentPagesDemo\\DemoContentPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage1.xaml.cs",
+              "RelativeToolTip": "Pages\\ContentPagesDemo\\DemoContentPage1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:01:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DemoContentPage2.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage2.xaml",
+              "RelativeDocumentMoniker": "Pages\\ContentPagesDemo\\DemoContentPage2.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage2.xaml",
+              "RelativeToolTip": "Pages\\ContentPagesDemo\\DemoContentPage2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T21:27:46.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DemoContentPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage1.xaml",
+              "RelativeDocumentMoniker": "Pages\\ContentPagesDemo\\DemoContentPage1.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\Pages\\ContentPagesDemo\\DemoContentPage1.xaml",
+              "RelativeToolTip": "Pages\\ContentPagesDemo\\DemoContentPage1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T20:59:06.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FirstMauiApp.csproj",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\FirstMauiApp.csproj",
+              "RelativeDocumentMoniker": "FirstMauiApp.csproj",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\FirstMauiApp.csproj",
+              "RelativeToolTip": "FirstMauiApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T20:57:45.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:44:31.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T20:29:44.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Desktop\\Programming\\MSSA\\MAUI\\FirstMauiApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:27:26.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

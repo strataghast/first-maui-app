@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstMauiApp.Pages.DemoContentPage2"
+             Title="DemoContentPage2"
+             BackgroundColor="#C6CDC7">
+    <VerticalStackLayout>
+        <Label 
+            Text="C# Basic Flashcards"
+            FontSize="Header"
+            TextColor="#7B7C7F"
+            FontAttributes="Bold"
+            Margin="30"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Button
+            x:Name="pageDecks"
+            Text="Return to Decks"
+            Clicked="pageDecks_Clicked"
+            BackgroundColor="#7B7C7F"
+            TextColor="White"
+            Margin="30"
+            BorderWidth="2"
+            BorderColor="#96A3AA"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>

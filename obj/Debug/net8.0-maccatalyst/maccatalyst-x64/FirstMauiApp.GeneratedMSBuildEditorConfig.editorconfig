@@ -1,0 +1,83 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FirstMauiApp
+build_property.ProjectDir = C:\Users\brett\OneDrive\Desktop\Programming\MSSA\MAUI\FirstMauiApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Pages/ContentPagesDemo/DemoContentPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Pages.ContentPagesDemo.DemoContentPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ContentPagesDemo\DemoContentPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ContentPagesDemo\DemoContentPage1.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Pages/ContentPagesDemo/DemoContentPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Pages.ContentPagesDemo.DemoContentPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ContentPagesDemo\DemoContentPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ContentPagesDemo\DemoContentPage2.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Pages/ContentPagesDemo/DemoContentPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Pages.ContentPagesDemo.DemoContentPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ContentPagesDemo\DemoContentPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ContentPagesDemo\DemoContentPage3.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Pages/FlyoutPageDemo/DemoFlyoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Pages.FlyoutPageDemo.DemoFlyoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlyoutPageDemo\DemoFlyoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlyoutPageDemo\DemoFlyoutPage.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Pages/NavPageDemo/NavContentPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Pages.NavPageDemo.NavContentPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavPageDemo\NavContentPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavPageDemo\NavContentPage1.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Pages/NavPageDemo/NavContentPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Pages.NavPageDemo.NavContentPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavPageDemo\NavContentPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavPageDemo\NavContentPage2.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Pages/NavPageDemo/NavContentPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Pages.NavPageDemo.NavContentPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavPageDemo\NavContentPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavPageDemo\NavContentPage3.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Pages/TabbedPageDemo/DemoTabPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Pages.TabbedPageDemo.DemoTabPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TabbedPageDemo\DemoTabPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TabbedPageDemo\DemoTabPage.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/brett/OneDrive/Desktop/Programming/MSSA/MAUI/FirstMauiApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
